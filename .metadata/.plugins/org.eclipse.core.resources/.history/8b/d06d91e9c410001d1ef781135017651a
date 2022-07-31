@@ -1,0 +1,10 @@
+package Project2.Project2;
+
+public class Dashborad {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("ths is me");
+	}
+
+}
